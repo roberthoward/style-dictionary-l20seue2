@@ -1,0 +1,23 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 03 Mar 2022 12:40:35 GMT
+ */
+
+:root {
+  --starter-button-primary-background: #14b8a6;
+  --starter-button-primary-padding-horizontal: 1rem;
+  --starter-button-primary-padding-vertical: 0.75rem;
+  --starter-button-primary-border-radius: 0.25rem;
+  --starter-button-primary-hover-background: #99f6e4;
+  --starter-button-primary-hover-outline-color: #171717;
+  --starter-button-primary-hover-outline-offset: 0.0625rem;
+  --starter-button-primary-hover-outline-width: 0.125rem;
+  --starter-button-primary-active-shadow-color: #115e59;
+  --starter-button-primary-active-shadow-width: 0.125rem;
+  --starter-button-primary-disabled-background: #115e59;
+  --starter-button-primary-disabled-color: #e5e5e5;
+  --starter-button-outline-background: transparent;
+  --starter-button-outline-border-width: 0.125rem;
+  --starter-button-outline-border-color: #171717;
+  --starter-button-outline-hover-background: #e5e5e5;
+}

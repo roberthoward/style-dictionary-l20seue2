@@ -1,0 +1,20 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 03 Mar 2022 12:40:35 GMT
+ */
+
+:root {
+  --starter-core-color-primary-base: #14b8a6;
+  --starter-core-color-primary-light: #99f6e4;
+  --starter-core-color-primary-dark: #115e59;
+  --starter-core-color-secondary-base: #f97316;
+  --starter-core-color-secondary-light: #fed7aa;
+  --starter-core-color-secondary-dark: #9a3412;
+  --starter-core-color-dark-base: #171717;
+  --starter-core-color-dark-mild: #404040;
+  --starter-core-color-light-base: #fafafa;
+  --starter-core-color-light-mild: #e5e5e5;
+  --starter-semantic-color-error: #ef4444;
+  --starter-semantic-color-success: #22c55e;
+  --starter-semantic-color-info: #0ea5e9;
+}

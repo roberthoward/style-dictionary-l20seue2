@@ -1,0 +1,40 @@
+.btn {
+  background-color: var(--starter-button-primary-background);
+  padding: var(--starter-button-primary-padding-vertical)
+    var(--starter-button-primary-padding-horizontal);
+  border-radius: var(--starter-button-primary-border-radius);
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: var(--starter-button-primary-hover-background);
+}
+
+.btn:focus {
+  outline: var(--starter-button-primary-hover-outline-width) solid
+    var(--starter-button-primary-hover-outline-color);
+  outline-offset: var(--starter-button-primary-hover-outline-offset);
+}
+
+.btn:active {
+  box-shadow: inset 0 0 0px var(--starter-button-primary-active-shadow-width)
+    var(--starter-button-primary-active-shadow-color);
+}
+
+.btn[outline] {
+  background-color: var(--starter-button-outline-background);
+  border: var(--starter-button-outline-border-width) solid
+    var(--starter-button-outline-border-color);
+}
+
+.btn[outline]:hover {
+  background-color: var(--starter-button-outline-hover-background);
+}
+
+.btn[disabled] {
+  cursor: not-allowed;
+  background-color: var(--starter-button-primary-disabled-background);
+  color: var(--starter-button-primary-disabled-color);
+}

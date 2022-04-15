@@ -1,0 +1,70 @@
+{
+  "core": {
+    "color": {
+      "primary": {
+        "base": {
+          "type": "color",
+          "value": "#14b8a6"
+        },
+        "light": {
+          "type": "color",
+          "value": "#99f6e4"
+        },
+        "dark": {
+          "type": "color",
+          "value": "#115e59"
+        }
+      },
+      "secondary": {
+        "base": {
+          "type": "color",
+          "value": "#f97316"
+        },
+        "light": {
+          "type": "color",
+          "value": "#fed7aa"
+        },
+        "dark": {
+          "type": "color",
+          "value": "#9a3412"
+        }
+      },
+      "dark": {
+        "base": {
+          "type": "color",
+          "value": "#171717"
+        },
+        "mild": {
+          "type": "color",
+          "value": "#404040"
+        }
+      },
+      "light": {
+        "base": {
+          "type": "color",
+          "value": "#fafafa"
+        },
+        "mild": {
+          "type": "color",
+          "value": "#e5e5e5"
+        }
+      }
+    }
+  },
+  "semantic": {
+    "color": {
+      "error": {
+        "type": "color",
+        "value": "#ef4444"
+      },
+      "success": {
+        "type": "color",
+        "value": "#22c55e"
+      },
+      "info": {
+        "type": "color",
+        "value": "#0ea5e9"
+      }
+    }
+  }
+}
